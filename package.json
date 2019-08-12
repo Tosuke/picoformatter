@@ -1,0 +1,13 @@
+{
+  "name": "picoformatter",
+  "version": "0.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/Tosuke/picoformatter",
+  "author": "Tosuke <tasukeprg@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3"
+  }
+}
